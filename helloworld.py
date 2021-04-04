@@ -6,6 +6,8 @@ st.title("my first app")
 
 st.write('it\'s a strange things')
 
+st.slider('x')
+
 st.markdown("""
 欢迎订阅我的微信公众号“玉树芝兰”，**第一时间免费**收到文章更新。别忘了**加星标**，以免错过新推送提示。
 
